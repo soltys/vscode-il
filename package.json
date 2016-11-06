@@ -7,7 +7,8 @@
     "private": true,
     "author": {
         "name": "Paweł Sołtysiak",
-        "email": "pawel+illanguage@soltysiak.it"    
+        "email": "pawel+illanguage@soltysiak.it",
+        "url": "https://github.com/soltys/vscode-il"
     },
     "engines": {
         "vscode": "^1.5.0"
